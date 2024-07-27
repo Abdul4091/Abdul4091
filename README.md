@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Syed_Wajid
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I’m @Syed_Wajid
+-👀 Interested in data science and analytics
+-🌱 Currently learning advanced AI techniques
+-💞️ Looking to collaborate on data-driven projects and BI solutions
+-📫 Reach me at https://www.linkedin.com/in/syed-wajid-442451158
 
 
 <!---
